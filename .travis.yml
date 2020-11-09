@@ -4,7 +4,9 @@ python:
   - 3.7
   - 3.8
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt codecov
 script:
   - flake8
-  - pytest libpythonpro_fnsouza
+  - pytest libpythonpro_fnsouza --cov=libpythonpro_fnsouza
+after_success:
+  - codecov
