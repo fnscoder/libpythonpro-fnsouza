@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/fnscoder/libpythonpro-fnsouza.svg?branch=main)](https://travis-ci.org/fnscoder/libpythonpro-fnsouza)
 [![Updates](https://pyup.io/repos/github/fnscoder/libpythonpro-fnsouza/shield.svg)](https://pyup.io/repos/github/fnscoder/libpythonpro-fnsouza/)
 [![Python 3](https://pyup.io/repos/github/fnscoder/libpythonpro-fnsouza/python-3-shield.svg)](https://pyup.io/repos/github/fnscoder/libpythonpro-fnsouza/)
+[![codecov](https://codecov.io/gh/fnscoder/libpythonpro-fnsouza/branch/main/graph/badge.svg?token=3S65ZAZANC)](https://codecov.io/gh/fnscoder/libpythonpro-fnsouza)
 
 
 Módulo para exemplificar a construção de projetos Python no curso PyTools
